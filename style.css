@@ -1,0 +1,25 @@
+body {
+    background: pink;
+    color: white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects {
+    color: orange;
+}
+#result_object_name, #result_object_accuracy {
+    color: yellow;
+}
+#camera {
+    border: 2px solid blue;
+    width: 350px;
+    height: 350px;
+}
+#result {
+    border: 2px solid blue;
+    width: 350px;
+    height: 350px;
+}
